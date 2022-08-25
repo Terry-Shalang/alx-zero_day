@@ -1,1 +1,1 @@
-This directroy all tasks in 0x01. Git
+This directory contains all tasks in 0x01. Git
